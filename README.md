@@ -1,1 +1,4 @@
 # Grocery-Recommendation-System
+
+# Project Summary
+The Grocery Recommendation System project analyzes a large dataset of over 3 million grocery orders from more than 200,000 Instacart users, with the aim of using the data to gain insights into customer purchasing behavior and generate recommendations for product bundling, cross-selling, and up- selling. To achieve this, the project uses various techniques such as association rules, K-means clustering, and collaborative filtering. These techniques are used to identify associations between products purchased by customers, divide customers into groups based on their purchasing behavior, recommend items based on the preferences of similar users, recommend items based on the attributes of the items, and combine multiple algorithms and methodologies to generate recommendations.
